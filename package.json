@@ -11,6 +11,7 @@
     "typescript",
     "ssr"
   ],
+  "registory": "https://github.com/dshuu/meeop.git",
   "author": "dshu",
   "license": "MIT"
 }
