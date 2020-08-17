@@ -1,5 +1,5 @@
 {
-  "name": "meeop",
+  "name": "furion",
   "version": "1.0.0",
   "description": "Not ready yet",
   "main": "index.js",
@@ -13,5 +13,8 @@
   ],
   "registory": "https://github.com/dshuu/meeop.git",
   "author": "dshu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
 }
